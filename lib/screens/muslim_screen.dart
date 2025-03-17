@@ -43,7 +43,7 @@ class MuslimScreen extends StatelessWidget {
           children: [
             QuraanScreen(), // Display Surah List
             RecitersApp(),
-            TafsirScreen(), // Display Tafsir Explanation
+            TafsirScreen(), // Display Tafsir Explanatione
             AzkarScreen(),
             PrayerTime(),
             // BookmarksScreen(), // Display Bookmarked Ayahs
